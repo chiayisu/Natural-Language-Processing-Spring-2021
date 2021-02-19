@@ -32,5 +32,9 @@ The course mainly introduces the theories and applications of Natural Language P
   1. [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/)
   2. [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://www.aclweb.org/anthology/Q18-1034/)
   3. [Stanford University CS224N Lecture2 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
-
+## Lecture 5: Neural Network
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1O9McrY5nlS-Q-PHusKuQc6iT6TprD8Ri/view?usp=sharing), [PDF](https://drive.google.com/file/d/1cCW6MJtjoQcgaUMdvok6ZbUx9mNZ-7K2/view?usp=sharing)
+* Reading Materials
+  1. [Speech and Language Processing: Information Extraction](https://web.stanford.edu/~jurafsky/slp3/)(Chapter number may vary according to the edition)
+  2. [Stanford University CS224N Lecture3 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
