@@ -23,9 +23,9 @@ The course mainly introduces the theories and applications of Natural Language P
  ## Lecture 3: Distributed Representaion of Words
  * Lecture Slides: [PPT](https://drive.google.com/file/d/136bQeifOLz6j_Uxswy0e5p9bpOScPJJp/view?usp=sharing), [PDF](https://drive.google.com/file/d/1J8LAf5h1fy9YOP81zjFiJlfbHhy6PDtT/view?usp=sharing)
  * Reading Materials
-  1. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
-  2. [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
-  3. [Stanford University CS224N Lecture1 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+   1. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+   2. [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
+   3. [Stanford University CS224N Lecture1 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 ## Lecture 4: Advanced Word Vector
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1wFUzaqY5T34oxUFhYEl2h2xlcCRAwc0b/view?usp=sharing), [PDF](https://drive.google.com/file/d/1BkFV_gcImeQGZAIt7tGhBQqyUJvy4X-K/view?usp=sharing)
 * Reading Materials
