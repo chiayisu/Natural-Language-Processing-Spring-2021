@@ -26,4 +26,11 @@ The course mainly introduces the theories and applications of Natural Language P
   1. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
   2. [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
   3. [Stanford University CS224N Lecture1 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+## Lecture 4: Advanced Word Vector
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1wFUzaqY5T34oxUFhYEl2h2xlcCRAwc0b/view?usp=sharing), [PDF](https://drive.google.com/file/d/1BkFV_gcImeQGZAIt7tGhBQqyUJvy4X-K/view?usp=sharing)
+* Reading Materials
+  1. [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/)
+  2. [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://www.aclweb.org/anthology/Q18-1034/)
+  3. [Stanford University CS224N Lecture2 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 
