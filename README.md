@@ -55,4 +55,11 @@ The course mainly introduces the theories and applications of Natural Language P
    4. [A Fast and Accurate Dependency Parser using Neural Networks](https://www.aclweb.org/anthology/D14-1082/)
    5. [Stanford University CS224N Lecture5 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
  * [Universal Dependency Parsing](https://universaldependencies.org/)
-
+## Lecture 8: Recurrent Neural Networks and Language Models
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1jFTtKhmpCwudrM9TbsB2MBnHdmVC6K17/view?usp=sharing), [PDF](https://drive.google.com/file/d/1hWh_lonH_7PR_DgnvwNQL-Iw6Q8ZHbSR/view?usp=sharing)
+* Reading Materials
+  1. [Speech and Language Processing: N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/)(Chapter number may vary according to the edition)
+  2. [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306)
+  3. [Speechless? Here’s how AI learns to finish your sentences](https://tech.fb.com/speechless-heres-how-ai-learns-to-finish-your-sentences/)
+  4. [Stanford University CS224N Lecture6 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+  5. [Deep Learning - Sequence Modeling: Recurrent and Recursive Nets](https://www.deeplearningbook.org/)
