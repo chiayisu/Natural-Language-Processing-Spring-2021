@@ -45,5 +45,14 @@ The course mainly introduces the theories and applications of Natural Language P
   3. [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
   4. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
   5. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
-  6. [Stanford University CS224N Lecture3 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+  6. [Stanford University CS224N Lecture4 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+## Lecture 7: Dependency Parsing
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1ygjjkDyO_iRQsKGUKGAQurx2frCFgjjR/view?usp=sharing), [PDF](https://drive.google.com/file/d/1vCHum6Kq_w6MGMSPaHDMkk_KMvlP9WMb/view?usp=sharing)
+ * Reading Materials
+   1. [Incrementality in Deterministic Dependency Parsing](https://www.aclweb.org/anthology/W04-0308/)
+   2. [Globally Normalized Transition-Based Neural Networks](https://arxiv.org/abs/1603.06042)
+   3. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](https://www.aclweb.org/anthology/P14-1129/)
+   4. [A Fast and Accurate Dependency Parser using Neural Networks](https://www.aclweb.org/anthology/D14-1082/)
+   5. [Stanford University CS224N Lecture5 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+ * [Universal Dependency Parsing](https://universaldependencies.org/)
 
