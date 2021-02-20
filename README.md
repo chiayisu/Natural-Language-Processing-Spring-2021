@@ -37,4 +37,13 @@ The course mainly introduces the theories and applications of Natural Language P
 * Reading Materials
   1. [Speech and Language Processing: Information Extraction](https://web.stanford.edu/~jurafsky/slp3/)(Chapter number may vary according to the edition)
   2. [Stanford University CS224N Lecture3 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+## Lecture 6: Backpropagation and Computation Graphs
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1COCLt4zUsMZKPz3V_TRIWmOjobHnj-er/view?usp=sharing), [PDF](https://drive.google.com/file/d/1H7SHzGuNDZ_FU5tljqUelK2Oh23SUGxh/view?usp=sharing)
+* Reading Materials
+  1. [Maxout Networks](https://arxiv.org/pdf/1302.4389.pdfMaxout%20Networks)
+  2. [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+  3. [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+  4. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+  5. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
+  6. [Stanford University CS224N Lecture3 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
