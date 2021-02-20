@@ -63,3 +63,13 @@ The course mainly introduces the theories and applications of Natural Language P
   3. [Speechless? Here’s how AI learns to finish your sentences](https://tech.fb.com/speechless-heres-how-ai-learns-to-finish-your-sentences/)
   4. [Stanford University CS224N Lecture6 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
   5. [Deep Learning - Sequence Modeling: Recurrent and Recursive Nets](https://www.deeplearningbook.org/)
+## Lecture 9: Vanishing Gradients and Fancy RNNs
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1o93nLCGl9mubUGIPmLrCuyNuWJGUkGre/view?usp=sharing), [PDF](https://drive.google.com/file/d/1LDoS4D-Fbz2T0V3k1TxY16tQm3pexRTF/view?usp=sharing)
+* Reading Materials
+  1. [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/abs/1211.5063)
+  2. [Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies](https://www.aclweb.org/anthology/Q16-1037/)
+  3. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+  4. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+  5. [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+  6. [Highway Networks](https://arxiv.org/abs/1505.00387)
+  7. [Stanford University CS224N Lecture7 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
