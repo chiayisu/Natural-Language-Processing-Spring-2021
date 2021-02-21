@@ -73,3 +73,10 @@ The course mainly introduces the theories and applications of Natural Language P
   5. [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
   6. [Highway Networks](https://arxiv.org/abs/1505.00387)
   7. [Stanford University CS224N Lecture7 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+ ## Lecture 10: Machine Translation, Seq2Seq and Attention
+ * Lecture Slides: [PPT](https://drive.google.com/file/d/1VLccnifAXlEqL2cAeVOsOIHLlDICrr19/view?usp=sharing), [PDF](https://drive.google.com/file/d/1UrE5g1xIUyWA8DuUMRDPrXSyOV6rN7cY/view?usp=sharing)
+ * Reading Materials
+   1. [Bleu: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040/)
+   2. [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024/)
+   3. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
