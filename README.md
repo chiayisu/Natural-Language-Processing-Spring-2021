@@ -79,4 +79,14 @@ The course mainly introduces the theories and applications of Natural Language P
    1. [Bleu: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040/)
    2. [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024/)
    3. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+ ## Lecture 11: Contextual Word Representations and Pretraining
+  * Lecture Slides: [PPT](https://drive.google.com/file/d/1pMMICajp6OkwObYwfIO5XvwTDD-F5lrL/view?usp=sharing), [PDF](https://drive.google.com/file/d/18sw23PFV2897nVhkfjZIegmY9I4-LRRN/view?usp=sharing)
+  * Reading Materials
+    1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+    2. [Attention Is All You Need](http://nlp.seas.harvard.edu/2018/04/03/attention.html)(Code Explanation)
+    3. [Layer Normalization](https://arxiv.org/abs/1607.06450)
+    4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
+    5. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
+
 
