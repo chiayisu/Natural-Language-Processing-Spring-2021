@@ -88,5 +88,7 @@ The course mainly introduces the theories and applications of Natural Language P
     4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
     5. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
+## Machine Learning Algorithm Implementation
+1. [Machine Learning Algorithm Implementation without Fancy Library](https://github.com/chiayisu/NLP_and_ML_Algorithm)
 
 
