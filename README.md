@@ -82,7 +82,7 @@ The course mainly introduces the theories and applications of Natural Language P
     3. [Layer Normalization](https://arxiv.org/abs/1607.06450)
     4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
     5. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
- ## Lecture 12: Dialog System
+ ## Lecture 11: Dialog System
   * Lecture Slides: [PPT](https://drive.google.com/file/d/1pMMICajp6OkwObYwfIO5XvwTDD-F5lrL/view?usp=sharing), [PDF](https://drive.google.com/file/d/18sw23PFV2897nVhkfjZIegmY9I4-LRRN/view?usp=sharing)
   * Reading Materials
 
