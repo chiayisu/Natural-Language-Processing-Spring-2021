@@ -30,7 +30,7 @@ The course mainly introduces the theories and applications of Natural Language P
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1JIhWbyuF5e4zdtaDSlVkTBjPJC9MYuKl/view?usp=sharing), [PDF](https://drive.google.com/file/d/1BkFV_gcImeQGZAIt7tGhBQqyUJvy4X-K/view?usp=sharing)
 * Reading Materials
   1. [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/)
-  2. [Speech and Language Processing: Information Extraction](https://web.stanford.edu/~jurafsky/slp3/)(Chapter number may vary according to the edition)
+  2. [Speech and Language Processing: Information Extraction](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
   3. [Stanford University CS224N Lecture2 and Lecture3 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 ## Lecture 5: Backpropagation and Computation Graphs
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1O9McrY5nlS-Q-PHusKuQc6iT6TprD8Ri/view?usp=sharing), [PDF](https://drive.google.com/file/d/1cCW6MJtjoQcgaUMdvok6ZbUx9mNZ-7K2/view?usp=sharing)
@@ -53,11 +53,11 @@ The course mainly introduces the theories and applications of Natural Language P
 ## Lecture 7: Recurrent Neural Networks and Language Models
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1ygjjkDyO_iRQsKGUKGAQurx2frCFgjjR/view?usp=sharing), [PDF](https://drive.google.com/file/d/1vCHum6Kq_w6MGMSPaHDMkk_KMvlP9WMb/view?usp=sharing)
  * Reading Materials
-  1. [Speech and Language Processing: N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/)(Chapter number may vary according to the edition)
-  2. [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306)
-  3. [Speechless? Here’s how AI learns to finish your sentences](https://tech.fb.com/speechless-heres-how-ai-learns-to-finish-your-sentences/)
-  4. [Stanford University CS224N Lecture6 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
-  5. [Deep Learning - Sequence Modeling: Recurrent and Recursive Nets](https://www.deeplearningbook.org/)
+   1. [Speech and Language Processing: N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
+   2. [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306)
+   3. [Speechless? Here’s how AI learns to finish your sentences](https://tech.fb.com/speechless-heres-how-ai-learns-to-finish-your-sentences/)
+   4. [Stanford University CS224N Lecture6 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+   5. [Deep Learning - Sequence Modeling: Recurrent and Recursive Nets](https://www.deeplearningbook.org/)
 ## Lecture 8: Vanishing Gradients and Fancy RNNs
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1jFTtKhmpCwudrM9TbsB2MBnHdmVC6K17/view?usp=sharing), [PDF](https://drive.google.com/file/d/1hWh_lonH_7PR_DgnvwNQL-Iw6Q8ZHbSR/view?usp=sharing)
 * Reading Materials
@@ -78,7 +78,7 @@ The course mainly introduces the theories and applications of Natural Language P
  * Lecture Slides: [PPT](https://drive.google.com/file/d/1VLccnifAXlEqL2cAeVOsOIHLlDICrr19/view?usp=sharing), [PDF](https://drive.google.com/file/d/1UrE5g1xIUyWA8DuUMRDPrXSyOV6rN7cY/view?usp=sharing)
  * Reading Materials
     1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-    2. [Attention Is All You Need](http://nlp.seas.harvard.edu/2018/04/03/attention.html)(Code Explanation)
+    2. [Attention Is All You Need](http://nlp.seas.harvard.edu/2018/04/03/attention.html) (Code Explanation)
     3. [Layer Normalization](https://arxiv.org/abs/1607.06450)
     4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
     5. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
