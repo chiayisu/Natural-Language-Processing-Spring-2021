@@ -1,7 +1,7 @@
 # Natural Language Processing Spring 2021
 
 ## Course Description
-The course mainly introduces the theories and applications of Natural Language Processing. This course starts from basic concepts of Natural Language Processing to the-state-of-the-art Natural Language Processing algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to dialog system. Finally, this course will introduce some concepts of Reinforcement Learning. 
+The course mainly introduces the theories and applications of Natural Language Processing. This course starts from basic concepts of Natural Language Processing to the-state-of-the-art Natural Language Processing algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to dialog system and introduce some concepts of Reinforcement Learning if time-permitted.
 
 
 ## Lecture 1: Introduction to Natural Language Processing
@@ -68,23 +68,16 @@ The course mainly introduces the theories and applications of Natural Language P
   5. [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
   6. [Highway Networks](https://arxiv.org/abs/1505.00387)
   7. [Stanford University CS224N Lecture7 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
-## Lecture 9: Machine Translation, Seq2Seq and Attention
+## Lecture 9: Machine Translation, Seq2Seq, Attention, and Transformer
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1o93nLCGl9mubUGIPmLrCuyNuWJGUkGre/view?usp=sharing), [PDF](https://drive.google.com/file/d/1LDoS4D-Fbz2T0V3k1TxY16tQm3pexRTF/view?usp=sharing)
 * Reading Materials
-   1. [Bleu: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040/)
-   2. [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024/)
-   3. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
- ## Lecture 10: Contextual Word Representations and Pretraining
- * Lecture Slides: [PPT](https://drive.google.com/file/d/1VLccnifAXlEqL2cAeVOsOIHLlDICrr19/view?usp=sharing), [PDF](https://drive.google.com/file/d/1UrE5g1xIUyWA8DuUMRDPrXSyOV6rN7cY/view?usp=sharing)
- * Reading Materials
     1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
     2. [Attention Is All You Need](http://nlp.seas.harvard.edu/2018/04/03/attention.html) (Code Explanation)
     3. [Layer Normalization](https://arxiv.org/abs/1607.06450)
     4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
-    5. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
- ## Lecture 11: Dialog System
-  * Lecture Slides: [PPT](https://drive.google.com/file/d/1pMMICajp6OkwObYwfIO5XvwTDD-F5lrL/view?usp=sharing), [PDF](https://drive.google.com/file/d/18sw23PFV2897nVhkfjZIegmY9I4-LRRN/view?usp=sharing)
-  * Reading Materials
+    5. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+    6. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 
 ## Machine Learning Algorithm Implementation
 1. [Machine Learning Algorithm Implementation without Fancy Library](https://github.com/chiayisu/NLP_and_ML_Algorithm)
