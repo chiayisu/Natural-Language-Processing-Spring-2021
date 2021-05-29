@@ -3,7 +3,6 @@
 ## Course Description
 The course mainly introduces the theories and applications of Natural Language Processing. This course starts from basic concepts of Natural Language Processing to the-state-of-the-art Natural Language Processing algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to task-oriented dialog system and introduce some concepts of Reinforcement Learning if time-permitted.
 
-
 ## Lecture 1: Introduction to Natural Language Processing
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1e6f12ceaBz5YpIOa8dIBVPyO0fsJQ_O7/view?usp=sharing), [PDF](https://drive.google.com/file/d/18kzde9mnlyRezQ1Xz5wx_zGfB8PsTUze/view?usp=sharing)
 * Reading Materials
@@ -77,9 +76,16 @@ The course mainly introduces the theories and applications of Natural Language P
     4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
     5. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
     6. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
-
-
+## Lecture 10: Task Oriented Dialogue Systems & Multi-Modal Dialog System
+* Lecture Slides: [PPT](https://drive.google.com/file/d/1Y0PBKbMGerHaoSN-s-8jAVaLCSt85WDr/view?usp=sharing), [PDF](https://drive.google.com/file/d/1Dxd5n44f4oiMQDC7EUdNmacmiNshaYRE/view?usp=sharing)
+* Reading Materials
+  1.  [Speech and Language Processing: Chatbots and Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
+  2.  [Continuously Learning Neural Dialogue Management](https://arxiv.org/abs/1606.02689)
+  3.  [Augment Information with Multimodal Information](https://visualqa.org/workshop_2020.html)
 ## Machine Learning Algorithm Implementation
 1. [Machine Learning Algorithm Implementation without Fancy Library](https://github.com/chiayisu/NLP_and_ML_Algorithm)
-
+## Textbooks
+* Dan Jurafsky and James H. Martin, [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/)
+* Ian Goodfellow, Yoshua Bengio, Aaron Courville, [Deep Learning](https://www.deeplearningbook.org/)
+* Zhang et al., [Dive into Deep Learning](https://d2l.ai/)
 
