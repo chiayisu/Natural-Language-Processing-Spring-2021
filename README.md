@@ -1,7 +1,7 @@
 # Natural Language Processing Spring 2021
 
 ## Course Description
-The course mainly introduces the theories and applications of Natural Language Processing. This course starts from basic concepts of Natural Language Processing to the-state-of-the-art Natural Language Processing algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to dialog system and introduce some concepts of Reinforcement Learning if time-permitted.
+The course mainly introduces the theories and applications of Natural Language Processing. This course starts from basic concepts of Natural Language Processing to the-state-of-the-art Natural Language Processing algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to task-oriented dialog system and introduce some concepts of Reinforcement Learning if time-permitted.
 
 
 ## Lecture 1: Introduction to Natural Language Processing
